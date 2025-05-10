@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"exam.code.doc","c":"Student","l":"getAge()"},{"p":"exam.code.doc","c":"Student","l":"getMyName()"},{"p":"exam.code.doc","c":"Student","l":"setAge(int)"},{"p":"exam.code.doc","c":"Student","l":"setMyName(String)","u":"setMyName(java.lang.String)"},{"p":"exam.code.doc","c":"Student","l":"Student()","u":"%3Cinit%3E()"}];updateSearchResults();
